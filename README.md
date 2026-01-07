@@ -1,4 +1,4 @@
-<div align="center">
+https://github.com/pyodide/pyodide/blob/main/docs%2Fproject%2Fchangelog.md<div align="center">
   <a href="https://github.com/pyodide/pyodide">
   <img src="./docs/_static/img/pyodide-logo-readme.png" alt="Pyodide">
   </a>
